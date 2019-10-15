@@ -46,7 +46,7 @@ You must employ Gulp as the task runner for your project. You must create two tr
 * Place `data.json` in the root of your project.
 
 ## Due Date
-⏰ **Friday, 18 October 2019, at 8:00 AM. 🚫 _No late work will be accepted._**
+⏰ **Monday, 21 October 2019, at 8:00 AM. 🚫 _No late work will be accepted._**
 
 ## Submission
 All the files for this assignment must be included in the owner’s repo. Furthermore, copies of all files must be added to the fork of each member’s personal branch of this repo and submitted individually as a pull request. [Look at these videos](http://code-warrior.github.io/tutorials/git/github/) for help on how to issue a pull request.
