@@ -18,7 +18,7 @@ The ownership and collaboration structure implemented for the first assignment w
 
 ### Sprint Planning
 * With your team-mate(s), plan your sprint and file issues for each of the items listed below. Employ the sprint- and issue-filing conventions and rules defined for the first assignment.
-* Unless otherwise stated, each of the issue filed in ZenHub must be agreed on as a team.
+* Unless otherwise stated, each of the issues filed in ZenHub must be agreed on as a team.
 * Divide the work evenly across all team members.
 
 ### Linters
