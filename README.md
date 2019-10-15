@@ -42,7 +42,7 @@ You must employ Gulp as the task runner for your project. You must create two tr
 * `gulp build` should trigger the production track and generate the `prod` folder.
 
 ### JSON Database File
-* Format the entire key-value structure of your data, such as usernames, passwords, prefernces, etc, as JSON in a file called `data.json`.
+* Format the entire key-value structure of your data, such as usernames, passwords, preferences, etc, as JSON in a file called `data.json`.
 * Place `data.json` in the root of your project.
 
 ## Due Date
