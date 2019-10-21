@@ -1,0 +1,27 @@
+{
+  "name": "cook-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "eslint": "^6.5.1",
+    "gulp": "^4.0.2",
+    "gulp-cache": "^1.1.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-useref": "^4.0.0",
+    "htmllint": "^0.8.0",
+    "run-sequence": "^2.2.1",
+    "sass-lint": "^1.13.1"
+  },
+   
+  "dependencies": {
+    "gulp-cssnano": "^2.1.3"
+  }
+}

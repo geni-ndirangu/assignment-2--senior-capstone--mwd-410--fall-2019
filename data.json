@@ -1,0 +1,11 @@
+{ signup
+"first_name": "First"
+"last_name": "Last"
+"username": "user"
+"email": "firstinit last@(gmail, yahoo, mail).com"
+"password": "password"//(5-8 characters)
+
+login
+"username": "user" or "email"
+"password": "password"
+}
